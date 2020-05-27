@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  WindowsProject2.cpp
+C:\Users\serga\source\repos\WindowsProject2\WindowsProject2\Source.cpp(1,10): fatal error C1083: Не удается открыть файл включение: m_Window.h: No such file or directory,
+  Создание кода...
+C:\Users\serga\source\repos\WindowsProject2\WindowsProject2\WindowsProject2.cpp(13,10): fatal error C1083: Не удается открыть файл включение: m_Window.h: No such file or directory,

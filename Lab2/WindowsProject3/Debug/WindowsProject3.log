@@ -1,0 +1,12 @@
+﻿  WindowsProject3.cpp
+C:\Users\serga\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.cpp(107,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\serga\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.cpp(108,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\serga\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.cpp(117,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\serga\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.cpp(118,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\serga\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.cpp(163,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\serga\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.cpp(164,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\serga\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.cpp(175,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\serga\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.cpp(176,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\serga\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.cpp(183,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\serga\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.cpp(184,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  WindowsProject3.vcxproj -> C:\Users\serga\source\repos\WindowsProject3\Debug\WindowsProject3.exe

@@ -1,0 +1,30 @@
+﻿  WindowsProject5 laba4.cpp
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(14,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(14,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "CALLBACK"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(18,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(18,5): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "msg"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(20,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(20,5): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "hdc"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(21,13): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(21,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "brush"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(22,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(22,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ps"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(23,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(23,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "thread_1"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(25,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(25,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Win1"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(27,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "wWinMain"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(27,22): error C2065: HINSTANCE: необъявленный идентификатор
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(27,32): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "This"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(28,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(28,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(59,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(59,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "WINAPI"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(60,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(60,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(78,18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(78,18): error C2086: int LRESULT: переопределение
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(14): message : см. объявление "LRESULT"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(78,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "CALLBACK"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(79,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\serga\source\repos\WindowsProject5 laba4\WindowsProject5 laba4\WindowsProject5 laba4.cpp(79,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
