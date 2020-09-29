@@ -1,3 +1,6 @@
-# WinApi
-# MGTU of Bauman, BMSTU Programs by Subject: Programming on Windows
-# Программирование на Windows, МГТУ им. Баумана 4 лабы
+# WinApi    
+Программирование на Windows 4 лабы:  
+Лабороторная №1  
+Лабороторная №2  
+Лабороторная №3  
+Лабороторная №4  
